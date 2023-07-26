@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600');
 
 body {
-    background: url(bg.jpg) center/cover no-repeat fixed;
+    background: url(https://d266key948fg17.cloudfront.net/uploads/1606501694ad9fbcdd447348f1ee3aa49accdf2152.jpg) center/cover no-repeat fixed;
     font-family: 'Titillium Web', sans-serif;
     display: flex;
     min-height: 100vh;
@@ -182,7 +182,7 @@ p {
 }
 
 .i-resource-1 {
-    background-image: url(rr.png);
+    background-image: url(https://d266key948fg17.cloudfront.net/uploads/1616711312e996233b14d72ba4fa9ed2dab8f83511.png);
 }
 
 .i-resource-1, .i-resource-2 {
